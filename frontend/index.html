@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Resume Role Alignment</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="wrapper">
+
+    <header>
+        <h1>AI Resume Role Alignment</h1>
+        <p>Understand how well your resume matches your target role.</p>
+    </header>
+
+    <section class="input-section">
+        <textarea id="resumeText" placeholder="Paste your Resume here..."></textarea>
+        <textarea id="jobText" placeholder="Paste Job Description here..."></textarea>
+    </section>
+
+    <div class="center">
+        <button id="analyzeBtn" onclick="analyzeResume()">Analyze Resume</button>
+    </div>
+
+    <section id="results" class="results hidden">
+
+        <div class="score-grid">
+            <div class="score-card">
+                <svg class="progress-ring" width="140" height="140">
+                    <circle class="ring-bg" cx="70" cy="70" r="60"></circle>
+                    <circle class="ring-progress" id="skillRing" cx="70" cy="70" r="60"></circle>
+                </svg>
+                <h3>Skill Alignment</h3>
+                <p id="skillScore">0%</p>
+                <span id="skillLabel"></span>
+            </div>
+
+            <div class="score-card">
+                <svg class="progress-ring" width="140" height="140">
+                    <circle class="ring-bg" cx="70" cy="70" r="60"></circle>
+                    <circle class="ring-progress" id="semanticRing" cx="70" cy="70" r="60"></circle>
+                </svg>
+                <h3>Semantic Match</h3>
+                <p id="semanticScore">0%</p>
+                <span id="semanticLabel"></span>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>Matching Skills</h3>
+            <div id="matchingSkills"></div>
+        </div>
+
+        <div class="card">
+            <h3>Skills to Strengthen</h3>
+            <div id="missingSkills"></div>
+        </div>
+
+        <div class="card">
+            <h3>Strongest Resume Sections</h3>
+            <ul id="topSentences"></ul>
+        </div>
+
+        <div class="card">
+            <h3>Improvement Guidance</h3>
+            <ul id="suggestions"></ul>
+        </div>
+
+    </section>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

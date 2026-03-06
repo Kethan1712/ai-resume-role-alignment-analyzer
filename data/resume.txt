@@ -1,0 +1,58 @@
+Mandepudi Kethan Saradhi
+§ Kethan1712 | ï Mandepudi Kethan Saradhi |  Portfolio | # kethanmandepudi@gmail.com —
+H +91.9948048489
+
+Summary
+Curious and creative Computer Science student at VIT-AP with hands-on experience in full-stack web
+development and intelligent system design. Passionate about building impactful and user-centric applications through internships and diverse projects in areas like learning platforms, interactive games, and
+database management. Skilled at leveraging programming and problem-solving skills to deliver innovative
+solutions.
+
+Work Experience
+Prodigy Infotech — Web Development Intern
+AUG 2024 - Sep 2024
+Developed responsive websites with HTML, CSS, and JavaScript to deliver a smooth user experience.
+Optimized site performance and resolved technical issues. Applied best practices to enhance usability and
+ensure functionality.
+
+Projects
+Learn Lab
+
+Link to GITHUB
+
+Created a platform to track student engagement across various learning topics, featuring robust timetracking for accurate monitoring. Designed a responsive and user-friendly interface to enhance overall
+usability and engagement.
+School Security System
+Built a security system prototype with real-time monitoring and alert functionality for better safety management. Designed an effective interface for security personnel and integrated emergency alert notifications
+to ensure quick response during critical situations.
+AI-DS Student Database
+
+Link to DEMO
+
+Developed a web application to manage student records for the AI/DS department, ensuring efficient
+storage and retrieval of data using MongoDB. Designed an intuitive admin interface for seamless data
+interaction and streamlined operations.
+
+Education
+2023 - 2027 B-TECH in CSE at VIT AP
+2023
+Class 12th from Sri Chaitanya Jr College
+2021
+Class 10th BSE AP
+
+Skills
+Programming Languages Python, C, Java, C++, Matlab
+Web Technologies
+HTML, CSS, JavaScript
+Databases
+MongoDB
+Tools and Platforms
+Git, GitHub, Windows
+
+Last updated: February 5, 2026
+
+(CGPA: 8.58)
+(9.3)
+(9.8)
+
+
