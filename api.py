@@ -69,3 +69,6 @@ def analyze_resume(data: ResumeRequest):
         ],
         "suggestions": suggestions
     }
+@app.get("/")
+def home():
+    return {"message": "AI Resume Role Alignment Analyzer API is running"}
